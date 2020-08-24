@@ -1,11 +1,14 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [developer](developer/README.md)
-  * [getting\_started](developer/getting_started.md)
-* [User](user/README.md)
-  * [Registration](user/registration.md)
+* [myDECA Documentation](README.md)
 * [Terms of Service](tos.md)
-* [myDECA Documentation](undefined.md)
 * [Privacy Policy](privacy.md)
+
+## User <a id="user-1"></a>
+
+* [Registration](user-1/registration.md)
+
+## Developer
+
+* [Getting Started](developer/getting-started.md)
 
