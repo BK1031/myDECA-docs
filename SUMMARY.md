@@ -4,9 +4,10 @@
 * [Terms of Service](tos.md)
 * [Privacy Policy](privacy.md)
 
-## User <a id="user-1"></a>
+## User
 
-* [Registration](user-1/registration.md)
+* [Registration](user/registration.md)
+* [Advisor Setup](user/advisor-setup.md)
 
 ## Developer
 

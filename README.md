@@ -4,9 +4,9 @@ Welcome to the official documentation repository for the myDECA platform. Here i
 
 ## User
 
-* [Registration](user-1/registration.md)
+* [Registration](user/registration.md)
 
-  **Advisor**
+###  [**Advisor**](user/advisor-setup.md)\*\*\*\*
 
 * [Select Conferences]()
 * [Create Handbooks]()

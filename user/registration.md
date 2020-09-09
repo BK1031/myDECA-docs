@@ -26,17 +26,19 @@ For security reasons, we also ask that all users verify their email addresses be
 
 ![](../.gitbook/assets/screenshot3.png)
 
-You should recieve an email that looks like the screenshot below.
+You should receive an email that looks like the screenshot below.
 
 ![](../.gitbook/assets/screenshot4.png)
 
 Just click the link, which should take to a page that says your account has been verified. You can then close the tab, and return back to the myDECA page. Click the VERIFY button and the page should reload.
 
-_Hint: You might have to click the VERIFY button again if it doesn't work the first time_
+{% hint style="info" %}
+You might have to click the VERIFY button again if it doesn't work the first time
+{% endhint %}
 
 ## Next Steps
 
-If you are an advisor, check out this [Chapter Setup Guide](registration.md).
+If you are an advisor, check out this [Chapter Setup Guide]().
 
-If you are a member, check out this [Chapter Member Guide](registration.md).
+If you are a member, check out this [Chapter Member Guide]().
 
