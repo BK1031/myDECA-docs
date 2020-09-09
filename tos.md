@@ -1,5 +1,5 @@
 ---
-description: 'Last modified: September 2nd, 2020'
+description: 'Last modified: September 9th, 2020'
 ---
 
 # Terms of Service
@@ -65,6 +65,10 @@ In no event shall Equinox Initiative, nor any of its officers, members, and part
 You hereby indemnify to the fullest extent Equinox Initiative. from and against any and/or all liabilities, costs, demands, causes of action, damages and expenses arising in any way related to your breach of any of the provisions of these Terms.
 
 These Terms constitute the entire agreement between Equinox Initiative. and you in relation to your use of the Service, and supersede all prior agreements and understandings.
+
+{% hint style="info" %}
+DECA is a registered trademark of the DECA Inc., which was not involved in the production of, and does not endorse, this product.
+{% endhint %}
 
 
 

@@ -7,7 +7,7 @@
 ## User
 
 * [Registration](user/registration.md)
-* [Advisor Setup](user/advisor-setup.md)
+* [Chapter Setup](user/advisor-setup.md)
 
 ## Developer
 
