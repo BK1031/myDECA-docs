@@ -38,7 +38,7 @@ You might have to click the VERIFY button again if it doesn't work the first tim
 
 ## Next Steps
 
-If you are an advisor, check out this [Chapter Setup Guide]().
+If you are an advisor, check out this [Chapter Setup Guide](advisor-setup.md).
 
 If you are a member, check out this [Chapter Member Guide]().
 
