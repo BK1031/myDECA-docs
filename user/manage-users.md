@@ -1,4 +1,4 @@
-# Manage Users
+# Users
 
 myDECA uses a role-based system to manage user access and authenticate requests. We currently have the following roles:
 
@@ -9,6 +9,10 @@ myDECA uses a role-based system to manage user access and authenticate requests.
 5. Member
 
 The role hierarchy is used to determine access to certain actions/features/content. Throughout this documentation, you will see the `Minimum Role` listed before each feature explanation. This represents the lowest role on the role hierarchy required to interact with that feature. For example, if the minimum role to access a certain feature is `Officer`, then anyone with the roles `Developer`, `Advisor`, `President`, or `Officer` will be able to access that feature.
+
+## Editing Roles
+
+> Minimum Role: `Officer`
 
  You can change a user's roles on the "Manage Users" page, which you can get to by clicking on the "Manage Users" card on the home page.
 

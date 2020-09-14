@@ -8,8 +8,9 @@
 
 * [Registration](user/registration.md)
 * [Chapter Setup](user/advisor-setup.md)
-* [Manage Users](user/manage-users.md)
-* [Manage Groups](user/manage-groups.md)
+* [Users](user/manage-users.md)
+* [Groups](user/manage-groups.md)
+* [Handbooks](user/handbooks.md)
 
 ## Developer
 
