@@ -2,7 +2,7 @@
 
 You can create groups to seperate users based on event, mentor, chaperone, or anythign else! All groups have a join code that you set when creating the group. Join codes must be unique, capital, and not include any speical symbols. Each group also has a "friendly name" which is shown the user to help them identify which groups they are in.
 
-## Joining A Group
+## Joining a Group
 
 To join a group, first click on the "My Groups" card on the dashboard.
 
@@ -44,9 +44,17 @@ When you are done setting up your group, go ahead and click the CREATE button. Y
 
 ## Adding a Handbook to Group
 
+> Minimum Role: `President`
+
 To add a [handbook](handbooks.md), first click on a group from the list on the right. You should be greeted with an alert that looks similar to the following.
 
 ![](../.gitbook/assets/screen-shot-2020-09-14-at-4.02.09-pm.png)
 
 You will see a list of users who have joined the group, as well as a "Select Handbook" button at the top. If you see a button other than "Select Handbook", it means that a handbook was previously set for that group. Clicking on this button will reveal a drop-down with a list of all the handbooks you already have created.
+
+![](../.gitbook/assets/screen-shot-2020-09-14-at-9.27.24-pm.png)
+
+Just select the handbook you want to add from the list, and you should see the button update. You can also quickly check whether a group has a handbook assigned to it by looking at the icon at the end of the group card.
+
+![](../.gitbook/assets/screen-shot-2020-09-14-at-9.36.54-pm.png)
 
