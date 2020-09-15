@@ -7,19 +7,12 @@ If you have any questions, don't hesitate to reach out to us at [mydeca.app@gmai
 ## User
 
 * [Registration](user/registration.md)
-
-### **Advisor**
-
 * [Chapter Setup](user/advisor-setup.md)
-* Manage Users
-* [Create Handbooks]()
-* [Create Announcements]()
-* [Send Notifications]()
+* [Users](user/manage-users.md)
+* [Groups](user/manage-groups.md)
+* [Handbooks](user/handbooks.md)
 
-### **Member**
-
-* 
 ## Developer
 
-* [Getting Started]()
+* [Getting Started](developer/getting-started.md)
 
