@@ -6,13 +6,13 @@ description: 'Last modified: September 9th, 2020'
 
 ## Introduction
 
-First off, we would like to extend our sincerest gratitudes for choosing our service. We know terms of services can be boring, so we've tried to make this as simple as possible. Though it is important to remember that these terms are legally binding between yourself and us if you choose to use myDECA, so please read them carefully.
+First off, we would like to thank you for choosing our service. We know terms of services can be boring, so we've tried to make this as simple as possible. Though it is important to remember that these terms are legally binding between yourself and us if you choose to use myDECA, so please read them carefully.
 
-## But first, lets go over some vocab
+## But first, let's go over some vocab
 
-Throughout this document we will use terminology specific to us, so lets establish what everything means.
+Throughout this document we will use terminology specific to us, so let's establish what everything means.
 
-* "myDECA": the service provided by our group, [Equinox Initiative](https://equinox.bk1031.dev/). \(the "Platform", "Service", "us", "our", "we"\)
+* "myDECA": the service provided \(the "Platform", "Service", "us", "our", "we"\)
 * "You": yours truly, the user. \("you", "your"\) 
 * "Terms": the Terms of Service on this page, a legal binding agreement between Us and You. \("the Terms"\)
 * "Chapter": a group on myDECA that represents a specific DECA chapter or high school, in which users can register
@@ -24,29 +24,37 @@ myDECA provides you with the ability to connect your chapter members with the re
 #### By using our Service, you agree:
 
 * You are at least 13 years of age
-* You have read and understood the Terms and Privacy Policy.
-* You agree to abide by our community guidelines
+* You have read and understood the [Terms](tos.md)
+* If you are under 18 years of age, a parent or legal guardian has given you permission to use the Service and has read and agreed to the [Terms](tos.md)
+* You agree to abide by our [Community Guidelines](community-guidelines.md)
+
+We are always trying to improve the Service, so we may update these Terms at any time. If we make any significant changes, we will send you an update.   
+
+## Privacy
+
+We take the privacy of our users very seriously. myDECA collects from you and we use that information to provide our service. Please read our [Privacy Policy](privacy.md) for more information on how we handle user data.
+
+## Use by children
+
+We care deeply about children's privacy and keeping minors safe on the internet. All of our practices comply with COPPA, a law created to protect the privacy of minors. You can learn more about our co 
+
+The Children's Online Privacy Protection Act \("COPPA"\) requires that online service providers notify parents of children in the United States and obtain their consent before they knowingly collect personally identifiable information online from children who are under 13.
+
+We do not knowingly collect or solicit personal information from anyone under the age of 13. If we learn we have collected personal information from a student under 13, we will delete that information as quickly as possible. If you believe that a student under 13 may have provided us personal information in violation of this paragraph, please [contact us](mailto:mydeca.app@gmail.com).
+
+## Fees and payment
+
+Access to and use of myDECA will always be free. However, we may offer additional features that require fees. We reserve the right to charge for certain features and change which features we offer. We will notify you when we intend to charge for a service or feature. You will always have the choice of whether to use those features. If you continue to use any service or feature after you have been notified of any applicable fees, that use constitutes your acceptance of any new or increased fees.
+
+Note that, by using the Services, you may receive e-mail or text messages on your phone or mobile device, which may cause you to incur usage charges or other fees or costs in accordance with your wireless or data service plan. Any and all such charges, fees, or costs are your sole responsibility. You should consult with your wireless carrier to determine what rates, charges, fees, or costs may apply to your use of the Services. 
 
 ## Accounts
 
+As a condition to using Services, you may be required to register with myDECA by selecting a password and providing your name and a valid email address. You must provide us with accurate, complete, and updated information,.
+
 You are responsible for maintaining the confidentiality of your account and password, including but not limited to the restriction of access to your computer and/or account. You agree to accept responsibility for any and all activities or actions that occur under your account and/or password, whether your password is with our Service or a third-party service. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.
 
-You may not use as a username the name of another person or entity or that is not lawfully available for use, a name or trademark that is subject to any rights of another person or entity other than you, without appropriate authorization. You may not use as a name or any username that is offensive, vulgar or obscene.
-
-## Community Guidelines
-
-We have set the following guidelines to ensure that the Platform remains a safe and productive environment. 
-
-#### The following will result in account termination:
-
-* Sharing any NSFW content.
-* Sharing content with the intent of spamming, misleading, or phishing.
-* Sharing content that promotes or glorifies self harm or suicide.
-* Creating an account that impersonates another member, chapter official, or DECA official
-* Creating additional accounts, or "alts", to bypass user restrictions
-* Using the Service in any way that is or may be damaging to the Service.
-* Using the Service in any way that negatively impacts user access to the Service.
-* Engaging in any data mining, data harvesting, data extracting or any other similar activity in relation to the Service.
+You may not use the name of another person or entity or that is not lawfully available for use, or a name or trademark that is subject to any rights of another person or entity other than you, without appropriate authorization. You may not use a name or email that is offensive, vulgar, or obscene.
 
 ## Termination
 
@@ -58,13 +66,11 @@ We may terminate or suspend your account and bar access to the Service immediate
 
 Your Content must be your own and must not be invading any third-party’s rights. We reserve the right to remove any of Your Content from the Service at any time without notice.
 
-## Limitation of Liability
+## Indemnity
 
-In no event shall Equinox Initiative, nor any of its officers, members, and partners, be held liable for anything arising out of or in any way connected with your use of the Service whether such liability is under contract. Equinox Initiative, including any of its officers, members, and partners, shall not be held liable for any indirect, consequential or special liability arising out of or in any way related to your use of the Service.
+You will indemnify, defend and hold myDECA, its parents, subsidiaries, affiliates, officers, and employees harmless \(including, without limitation, from all damages, liabilities, settlements, costs and attorneys' fees\) from any claim or demand made by any third party due to or arising out of your access to or use of the Services, your violation of this Agreement, or the infringement by you or any third party using your account of any intellectual property or other right of any person or entity.
 
-You hereby indemnify to the fullest extent Equinox Initiative. from and against any and/or all liabilities, costs, demands, causes of action, damages and expenses arising in any way related to your breach of any of the provisions of these Terms.
-
-These Terms constitute the entire agreement between Equinox Initiative. and you in relation to your use of the Service, and supersede all prior agreements and understandings.
+These Terms constitute the entire agreement between myDECA and you in relation to your use of the Service, and supersede all prior agreements and understandings.
 
 {% hint style="info" %}
 DECA is a registered trademark of the DECA Inc., which was not involved in the production of, and does not endorse, this product.

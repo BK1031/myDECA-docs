@@ -2,7 +2,14 @@
 
 * [myDECA Documentation](README.md)
 * [Terms of Service](tos.md)
+* [Community Guidelines](community-guidelines.md)
 * [Privacy Policy](privacy.md)
+
+## Getting Started
+
+* [Advisors](getting-started/advisors.md)
+* [Officers](getting-started/officers.md)
+* [Students](getting-started/students.md)
 
 ## User
 

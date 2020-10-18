@@ -4,6 +4,14 @@ Welcome to the official documentation repository for the myDECA platform. Here i
 
 If you have any questions, don't hesitate to reach out to us at [mydeca.app@gmail.com](mailto:mydeca.app@gmail.com).
 
+If you would like to report a bug or request a feature, fill out the [Feedback Form](https://forms.gle/8UMH4V5Ty79qFEnNA). 
+
+## General
+
+* [Terms of Service](tos.md)
+* [Community Guidelines](community-guidelines.md)
+* [Privacy Policy](privacy.md)
+
 ## User
 
 * [Registration](user/registration.md)
