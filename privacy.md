@@ -1,5 +1,5 @@
 ---
-description: 'Last modified: September 2nd, 2020'
+description: 'Last modified: October 18th, 2020'
 ---
 
 # Privacy Policy
