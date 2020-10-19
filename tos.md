@@ -1,5 +1,5 @@
 ---
-description: 'Last modified: September 9th, 2020'
+description: 'Last modified: October 18th, 2020'
 ---
 
 # Terms of Service
@@ -7,6 +7,10 @@ description: 'Last modified: September 9th, 2020'
 ## Introduction
 
 First off, we would like to thank you for choosing our service. We know terms of services can be boring, so we've tried to make this as simple as possible. Though it is important to remember that these terms are legally binding between yourself and us if you choose to use myDECA, so please read them carefully.
+
+{% hint style="info" %}
+**IF YOU ARE UNDER THE AGE OF 18, YOU MUST HAVE YOUR PARENT OR GUARDIAN READ THE AGREEMENT BELOW AND AGREE TO IT FOR YOU. IF YOU DON'T GET YOUR PARENT OR GUARDIAN TO READ AND AGREE TO THIS, YOU DON'T HAVE PERMISSION TO USE REMIND. ALWAYS GET AN ADULT'S PERMISSION BEFORE GOING ONLINE.**
+{% endhint %}
 
 ## But first, let's go over some vocab
 
@@ -83,8 +87,6 @@ You will indemnify, defend and hold myDECA, its parents, subsidiaries, affiliate
 These Terms constitute the entire agreement between myDECA and you in relation to your use of the Service, and supersede all prior agreements and understandings.
 
 {% hint style="info" %}
-DECA is a registered trademark of the DECA Inc., which was not involved in the production of, and does not endorse, this product.
+**DECA IS A REGISTERED TRADEMARK OF THE DECA INC., WHICH WAS NOT INVOLVED IN THE PRODUCTION OF, AND DOES NOT ENDORSE, THIS PRODUCT.**
 {% endhint %}
-
-
 
