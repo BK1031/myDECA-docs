@@ -11,7 +11,7 @@ Meet myDECA, your chapter's virtual home. Connect your chapter members with the 
 We know terms of services can be boring, so we've tried to make this as simple as possible. Though it is important to remember that these terms are legally binding between yourself and us if you choose to use myDECA, so please read them carefully.
 
 {% hint style="info" %}
-**IF YOU ARE UNDER THE AGE OF 18, YOU MUST HAVE YOUR PARENT OR GUARDIAN READ THE AGREEMENT BELOW AND AGREE TO IT FOR YOU. IF YOU DON'T GET YOUR PARENT OR GUARDIAN TO READ AND AGREE TO THIS, YOU DON'T HAVE PERMISSION TO USE REMIND. ALWAYS GET AN ADULT'S PERMISSION BEFORE GOING ONLINE.**
+**IF YOU ARE UNDER THE AGE OF 18, YOU MUST HAVE YOUR PARENT OR GUARDIAN READ THE AGREEMENT BELOW AND AGREE TO IT FOR YOU. IF YOU DON'T GET YOUR PARENT OR GUARDIAN TO READ AND AGREE TO THIS, YOU DON'T HAVE PERMISSION TO USE MYDECA. ALWAYS GET AN ADULT'S PERMISSION BEFORE GOING ONLINE.**
 {% endhint %}
 
 ## But first, let's go over some vocab
@@ -38,11 +38,11 @@ We are always trying to improve the Service, so we may update these Terms at any
 
 ## Privacy
 
-We take the privacy of our users very seriously. myDECA collects from you and we use that information to provide our service. Please read our [Privacy Policy](privacy.md) for more information on how we handle user data.
+We take the privacy of our users very seriously. myDECA collects information from you, which we use to provide our service. Please read our [Privacy Policy](privacy.md) for more information on how we handle user data.
 
 ## Use by children
 
-We care deeply about children's privacy and keeping minors safe on the internet. All of our practices comply with COPPA, a law created to protect the privacy of minors. You can learn more about our co 
+We care deeply about children's privacy and keeping minors safe on the internet. All of our practices comply with COPPA, a law created to protect the privacy of minors. You can learn more about COPPA [here](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule). 
 
 The Children's Online Privacy Protection Act \("COPPA"\) requires that online service providers notify parents of children in the United States and obtain their consent before they knowingly collect personally identifiable information online from children who are under 13.
 
@@ -56,9 +56,9 @@ Note that, by using the Services, you may receive e-mail or text messages on you
 
 ## Accounts
 
-As a condition to using Services, you may be required to register with myDECA by selecting a password and providing your name and a valid email address. You must provide us with accurate, complete, and updated information,.
+As a condition to using Services, you may be required to register with myDECA with a full name, valid email address, and password. You must provide us with accurate, complete, and updated information.
 
-You are responsible for maintaining the confidentiality of your account and password, including but not limited to the restriction of access to your computer and/or account. You agree to accept responsibility for any and all activities or actions that occur under your account and/or password, whether your password is with our Service or a third-party service. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.
+You are responsible for maintaining the confidentiality of your account and password, including but not limited to the restriction of access to your computer and/or account. You agree to accept responsibility for any and all activities or actions that occur under your account and/or password, whether your password is specific to our Service or shared with a third-party service. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.
 
 You may not use the name of another person or entity or that is not lawfully available for use, or a name or trademark that is subject to any rights of another person or entity other than you, without appropriate authorization. You may not use a name or email that is offensive, vulgar, or obscene.
 
@@ -72,7 +72,7 @@ You agree that you may only use the Service in accordance with our [Community Gu
 
 You may only use the Services for your own personal, non-commercial \(meaning, you may not leverage the Services as a separate business\) use and only in accordance with the terms of this Agreement and all laws that apply to you. myDECA is not responsible for your use of the Services in any way that breaks the law. You agree you will abide by all copyright notices, trademark rules, information, and restrictions contained in any Content accessed through the Services, and will not use, copy, modify, publish, distribute, upload, display, license, sell or otherwise exploit for any purposes whatsoever any Content, third party submissions or other proprietary rights not owned by you.
 
-In the course of using the Services, you may provide information which may be used by myDECA in connection with the Services and which may be visible to certain other users. Anything you post, upload, share, store or otherwise provide through the Services are, together with any related intellectual property rights, your "User Submissions." You retain ownership of all of your User Submissions. In order to provide you with the Services, myDECA needs to access and use your User Submissions in certain ways. You hereby grant Remind a non-exclusive, worldwide, royalty-free, perpetual, irrevocable, sublicensable and transferable right and license to use your User Submissions for any purpose related to providing and/or improving the Services \(however, we will only share your personally identifiable information in accordance with our current [Privacy Policy](privacy.md)\). Because your User Submissions may be viewed or accessed by other myDECA users, you grant other myDECA users a nonexclusive, worldwide, royalty -free, perpetual, irrevocable, sublicensable right and license to access, view, edit, and use your User Submissions as may be permitted through the functionality of the Services \(for example, when you send a chat message through the Services, the recipients of your message will be able to save, copy, edit and store that message\).
+In the course of using the Services, you may provide information which may be used by myDECA in connection with the Services and which may be visible to certain other users. Anything you post, upload, share, store or otherwise provide through the Services are, together with any related intellectual property rights, your "User Submissions." You retain ownership of all of your User Submissions. In order to provide you with the Services, myDECA needs to access and use your User Submissions in certain ways. You hereby grant us a non-exclusive, worldwide, royalty-free, perpetual, irrevocable, sublicensable and transferable right and license to use your User Submissions for any purpose related to providing and/or improving the Services \(however, we will only share your personally identifiable information in accordance with our current [Privacy Policy](privacy.md)\). Because your User Submissions may be viewed or accessed by other myDECA users, you grant other myDECA users a nonexclusive, worldwide, royalty -free, perpetual, irrevocable, sublicensable right and license to access, view, edit, and use your User Submissions as may be permitted through the functionality of the Services \(for example, when you send a chat message through the Services, the recipients of your message will be able to save, copy, edit and store that message\).
 
 All information publicly posted or privately transmitted through the Services is the sole responsibility of the person from which such Content originated and that we will not be liable for any errors or omissions in any Content. We cannot guarantee the identity of any other users you may interact with in the course of using the Services. Additionally, we cannot guarantee the authenticity of any information which users may provide about themselves. You acknowledge that all Content accessed by you while using the Service is at your own risk and you will be solely responsible for any resulting damage or loss.
 
