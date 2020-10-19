@@ -58,13 +58,23 @@ You may not use the name of another person or entity or that is not lawfully ava
 
 ## Termination
 
-We may terminate or suspend your account and bar access to the Service immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms.
+We may terminate or suspend your account and bar access to the Service immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the [Terms](tos.md) or [Community Guidelines](community-guidelines.md).
 
 ## Your Content
 
-"Your Content" shall mean any audio, video text, images or other material you choose to publish on the Service.
+You agree that you may only use the Service in accordance with our [Community Guidelines](community-guidelines.md). All materials displayed or performed or available on the Services \(including, but not limited to text, graphics, data, articles, photographs, images, illustrations, User Submissions \(defined below\), and so forth \(all of the foregoing, the "Content"\)\) are protected by copyright and other intellectual property laws.
 
-Your Content must be your own and must not be invading any third-party’s rights. We reserve the right to remove any of Your Content from the Service at any time without notice.
+You may only use the Services for your own personal, non-commercial \(meaning, you may not leverage the Services as a separate business\) use and only in accordance with the terms of this Agreement and all laws that apply to you. myDECA is not responsible for your use of the Services in any way that breaks the law. You agree you will abide by all copyright notices, trademark rules, information, and restrictions contained in any Content accessed through the Services, and will not use, copy, modify, publish, distribute, upload, display, license, sell or otherwise exploit for any purposes whatsoever any Content, third party submissions or other proprietary rights not owned by you.
+
+In the course of using the Services, you may provide information which may be used by myDECA in connection with the Services and which may be visible to certain other users. Anything you post, upload, share, store or otherwise provide through the Services are, together with any related intellectual property rights, your "User Submissions." You retain ownership of all of your User Submissions. In order to provide you with the Services, myDECA needs to access and use your User Submissions in certain ways. You hereby grant Remind a non-exclusive, worldwide, royalty-free, perpetual, irrevocable, sublicensable and transferable right and license to use your User Submissions for any purpose related to providing and/or improving the Services \(however, we will only share your personally identifiable information in accordance with our current [Privacy Policy](privacy.md)\). Because your User Submissions may be viewed or accessed by other myDECA users, you grant other myDECA users a nonexclusive, worldwide, royalty -free, perpetual, irrevocable, sublicensable right and license to access, view, edit, and use your User Submissions as may be permitted through the functionality of the Services \(for example, when you send a chat message through the Services, the recipients of your message will be able to save, copy, edit and store that message\).
+
+All information publicly posted or privately transmitted through the Services is the sole responsibility of the person from which such Content originated and that we will not be liable for any errors or omissions in any Content. We cannot guarantee the identity of any other users you may interact with in the course of using the Services. Additionally, we cannot guarantee the authenticity of any information which users may provide about themselves. You acknowledge that all Content accessed by you while using the Service is at your own risk and you will be solely responsible for any resulting damage or loss.
+
+## Third party service providers
+
+The Services may contain links to third party websites, products or services that are not owned or controlled by myDECA \("Third Party Services"\). When you access Third Party Services, you do so at your own risk. We encourage you to be aware when you leave the Services and to read the terms and conditions and privacy policy of each Third Party Service that you visit or use.
+
+We have no control over, and assume no responsibility for, the content, accuracy, privacy policies, or practices of or opinions expressed in any Third Party Services. In addition, We will not and cannot monitor, verify, censor or edit the content of any Third Party Services. By using the Services, you expressly relieve and hold harmless myDECA from any and all liability arising from your use of any Third Party Services. 
 
 ## Indemnity
 
