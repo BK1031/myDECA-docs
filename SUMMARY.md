@@ -18,6 +18,7 @@
 * [Users](user/manage-users.md)
 * [Groups](user/manage-groups.md)
 * [Handbooks](user/handbooks.md)
+* [Settings](user/settings.md)
 
 ## Developer
 

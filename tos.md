@@ -6,7 +6,9 @@ description: 'Last modified: October 18th, 2020'
 
 ## Introduction
 
-First off, we would like to thank you for choosing our service. We know terms of services can be boring, so we've tried to make this as simple as possible. Though it is important to remember that these terms are legally binding between yourself and us if you choose to use myDECA, so please read them carefully.
+Meet myDECA, your chapter's virtual home. Connect your chapter members with the resources they need, whether that be conference information, practice materials, or meeting details. myDECA makes it easy for you to communicate anything effortlessly through announcements, group chats, and more.
+
+We know terms of services can be boring, so we've tried to make this as simple as possible. Though it is important to remember that these terms are legally binding between yourself and us if you choose to use myDECA, so please read them carefully.
 
 {% hint style="info" %}
 **IF YOU ARE UNDER THE AGE OF 18, YOU MUST HAVE YOUR PARENT OR GUARDIAN READ THE AGREEMENT BELOW AND AGREE TO IT FOR YOU. IF YOU DON'T GET YOUR PARENT OR GUARDIAN TO READ AND AGREE TO THIS, YOU DON'T HAVE PERMISSION TO USE REMIND. ALWAYS GET AN ADULT'S PERMISSION BEFORE GOING ONLINE.**
