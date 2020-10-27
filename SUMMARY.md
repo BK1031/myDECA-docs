@@ -9,7 +9,7 @@
 
 * [Advisors](getting-started/advisors.md)
 * [Officers](getting-started/officers.md)
-* [Students](getting-started/students.md)
+* [Members](getting-started/members.md)
 
 ## User
 
