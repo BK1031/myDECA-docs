@@ -1,6 +1,12 @@
 # Settings
 
-Here is a quick walkthrough of all the settings on myDECA.
+Here is a quick walkthrough of all the settings on myDECA. To access the settings page, simply click on the cog icon next to your profile on the home page.
+
+![](../.gitbook/assets/screen-shot-2020-10-27-at-5.31.18-pm.png)
+
+If you are on mobile, you can find a settings tab on the far right of the bottom navigation bar.
+
+### 
 
 ### Export Personal Information
 
