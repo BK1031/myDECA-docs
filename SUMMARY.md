@@ -16,6 +16,7 @@
 * [Registration](user/registration.md)
 * [Chapter Setup](user/advisor-setup.md)
 * [Users](user/manage-users.md)
+* [Mock Conference](user/mock-conference.md)
 * [Groups](user/manage-groups.md)
 * [Handbooks](user/handbooks.md)
 * [Settings](user/settings.md)
