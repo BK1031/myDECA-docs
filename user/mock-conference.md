@@ -1,6 +1,6 @@
 # Mock Conference
 
-Here is the page for everything to do with mock conferences on myDECA.
+Here is the page for everything to do with mock conferences on myDECA. Currently, mock conferences are a beta feature that we have been working with the DECA Chapter at Valley Christian High School to implement. Our first mock conference \(Valley Christian Mock Conference\) took place on November 14th. Check out our blog post regarding the whole process [here](https://blog.mydeca.org).
 
 ## Table of Contents
 
