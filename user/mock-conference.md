@@ -66,11 +66,45 @@ Once, you go to the written judging page for a team, you should see something li
 
 ![](../.gitbook/assets/screen-shot-2020-11-13-at-3.37.52-pm.png)
 
-On the left, you will see the written report that team has submitted. On the right, you will see that teams's event, event description, and judging time. There is a button that will take you to the official DECA Event Guidelines for that event so you can get some more information about what the event is about and what is required for it. You can also see the team's ID and members listed.
+On the left, you will see the written report that team has submitted. On the right, you will see that team's event, event description, and judging time. There is a button that will take you to the official DECA Event Guidelines for that event so you can get some more information about what the event is about and what is required for it. You can also see the team's ID and members listed.
 
 {% hint style="info" %}
 Some written events do not require an actual written report to be submitted such as the Professional Selling Events.
 {% endhint %}
 
-Below that, you will see a judging card. This is where you will input scores for that team. It is split into 2 sections, Written Evaluation and Presentation Evaluation. We recccomend that you take some time to looks through  
+Below that, you will see a judging card. This is where you will input scores for that team. It is split into 2 sections, Written Evaluation and Presentation Evaluation. We recccomend that you take some time to look through the teams' written reports before they present to you so that you can have an idea of what their project is about as well as prepare some questions beforehand.
+
+![](../.gitbook/assets/screen-shot-2020-11-13-at-3.46.46-pm.png)
+
+To enter a score, simply enter the number for the score you want to give into the text field. There are individual text fields for each field on the rubric. There is also an additional feedback section for you to write any comments or notes you have for the team. All of the text fields will automatically save so there is no need to worry about clicking a save button.
+
+{% hint style="info" %}
+The teams will be able to see whatever you put into the additional feedback section, so keep that in mind as you write your notes there.
+{% endhint %}
+
+![](../.gitbook/assets/screen-shot-2020-11-13-at-3.51.32-pm.png)
+
+Back on the dashboard, you should now see the scores that you just entered. You can go back and modify scores at any time.
+
+### Roleplay Judging
+
+Once you go to the roleplay judging page for a team, you should see something like the following.
+
+![](../.gitbook/assets/screen-shot-2020-11-13-at-3.53.55-pm.png)
+
+On the left, you will see the judge's roleplay instructions for the roleplay event that the team is competing in. On the right, you will see that team's event, event description, and judging time. There is a button that will take you to the official DECA Event Guidelines for that event so you can get some more information about what the event is about and what is required for it. You can also see the team's ID and members listed.
+
+Below that, you will see a judging card. This is where you will input scores for that team. It is split into 2 sections, Written Evaluation and Presentation Evaluation. We recccomend that you take some time to look through the teams' written reports before they present to you so that you can have an idea of what their project is about as well as prepare some questions beforehand.
+
+![](../.gitbook/assets/screen-shot-2020-11-13-at-3.59.02-pm.png)
+
+To enter a score, simply enter the number for the score you want to give into the text field. There are individual text fields for each field on the rubric. There is also an additional feedback section for you to write any comments or notes you have for the team. All of the text fields will automatically save so there is no need to worry about clicking a save button.
+
+{% hint style="info" %}
+The teams will be able to see whatever you put into the additional feedback section, so keep that in mind as you write your notes there.
+{% endhint %}
+
+![](../.gitbook/assets/screen-shot-2020-11-13-at-4.00.27-pm.png)
+
+Back on the dashboard, you should now see the scores that you just entered. You can go back and modify scores at any time.
 
