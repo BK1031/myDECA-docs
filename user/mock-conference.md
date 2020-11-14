@@ -7,6 +7,8 @@ Here is the page for everything to do with mock conferences on myDECA.
 * [Registration](mock-conference.md#registration)
 * [Submitting a Written](mock-conference.md#submitting-a-written)
 * [Judging](mock-conference.md#judging)
+  * [Written Judging](mock-conference.md#written-judging)
+  * [Roleplay Judging](mock-conference.md#roleplay-judging)
 
 ## Registration
 
