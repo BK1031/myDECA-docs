@@ -5,12 +5,6 @@
 * [Community Guidelines](community-guidelines.md)
 * [Privacy Policy](privacy.md)
 
-[//]: # ## Getting Started
-
-[//]: # * [Advisors](getting-started/advisors.md)
-[//]: # * [Officers](getting-started/officers.md)
-[//]: # * [Members](getting-started/members.md)
-
 ## User
 
 * [Registration](user/registration.md)
