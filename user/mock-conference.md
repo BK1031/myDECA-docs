@@ -26,9 +26,7 @@ If you are working with a teammate, then you can add them to your written and/or
 
 ![](../.gitbook/assets/screen-shot-2020-11-03-at-7.08.09-pm.png)
 
-{% hint style="info" %}
 Your teammate must be registered with myDECA before you will see them in the list to add them as a teammate.
-{% endhint %}
 
 Once you have filled out all the appropriate information for the mock conference, click on the register button and confirm your registration.
 
@@ -46,9 +44,7 @@ To submit a written, go to the mock conference page. You should see a button to 
 
 Once you select your written report from the menu, you will see a loading indicator to show you that it is uploading to our servers. Once the report has been successfully uploaded, you will see the status update on the page.
 
-{% hint style="info" %}
 Don't forget to make sure that you are submitting a PDF file and it is less than 25mb in size. Any other files will not be uploaded!
-{% endhint %}
 
 ![](../.gitbook/assets/screen-shot-2020-11-07-at-2.46.56-pm.png)
 
