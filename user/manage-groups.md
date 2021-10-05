@@ -10,9 +10,7 @@ To join a group, first click on the "My Groups" card on the dashboard.
 
 You should see a dialog pop up with all the groups you have already joined listed. At the bottom of the dialog, there is a text field where you can enter the join code of a group you want to join.
 
-{% hint style="info" %}
 Keep in mind that join codes are case sensitive, and do not have any spaces.
-{% endhint %}
 
 Once you click the JOIN button, you should see the name of the group appear under the the list of groups in the alert.
 
@@ -34,9 +32,7 @@ After clicking on this, you will be greeted with an alert to fill out your group
 
 ![](../.gitbook/assets/screen-shot-2020-09-14-at-10.21.18-am.png)
 
-{% hint style="info" %}
 Your join code will automatically be formatted without spaces, all upercase, and no special characters.
-{% endhint %}
 
 When you are done setting up your group, go ahead and click the CREATE button. You will now see your new group added to the group list in the right side column.
 
