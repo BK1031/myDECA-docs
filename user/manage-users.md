@@ -22,9 +22,7 @@ You should see two columns, one with a list of users and one with a list of grou
 
 To edit a users roles, simply click on the user's card. You will be greeted with a dialog that will allow you to add and remove roles from the selected user.
 
-{% hint style="info" %}
 You will only be able to add/remove roles for a user if you have that role first. For example, an `Officer` cannot add the `President` to someone.
-{% endhint %}
 
 ![](../.gitbook/assets/screen-shot-2020-09-10-at-12.41.52-am.png)
 
