@@ -10,9 +10,7 @@ Meet myDECA, your chapter's virtual home. Connect your chapter members with the 
 
 We know terms of services can be boring, so we've tried to make this as simple as possible. Though it is important to remember that these terms are legally binding between yourself and us if you choose to use myDECA, so please read them carefully.
 
-{% hint style="info" %}
 **IF YOU ARE UNDER THE AGE OF 18, YOU MUST HAVE YOUR PARENT OR GUARDIAN READ THE AGREEMENT BELOW AND AGREE TO IT FOR YOU. IF YOU DON'T GET YOUR PARENT OR GUARDIAN TO READ AND AGREE TO THIS, YOU DON'T HAVE PERMISSION TO USE MYDECA. ALWAYS GET AN ADULT'S PERMISSION BEFORE GOING ONLINE.**
-{% endhint %}
 
 ## But first, let's go over some vocab
 
@@ -88,7 +86,5 @@ You will indemnify, defend and hold myDECA, its parents, subsidiaries, affiliate
 
 These Terms constitute the entire agreement between myDECA and you in relation to your use of the Service, and supersede all prior agreements and understandings.
 
-{% hint style="info" %}
 **DECA IS A REGISTERED TRADEMARK OF THE DECA INC., WHICH WAS NOT INVOLVED IN THE PRODUCTION OF, AND DOES NOT ENDORSE, THIS PRODUCT.**
-{% endhint %}
 
