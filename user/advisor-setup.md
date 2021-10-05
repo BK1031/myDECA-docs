@@ -14,7 +14,5 @@ Once you select the appropriate conferences, you should see the "My Conferences"
 
 The next thing you should do is set your chapter's meeting times. 
 
-{% hint style="info" %}
 This section contains documentation for a feature that is currently in development. Content may be missing or outdated!
-{% endhint %}
 
